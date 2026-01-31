@@ -1,5 +1,5 @@
 # MCUME-C64-8-BIT-parallel-lcd-320x240
-MCUME emulator modified to work with a 3.2 inch 8 bit parallel 321x240 LCD
+MCUME emulator modified to work with a 3.2 inch 8 bit parallel 320x240 LCD
 
 MODULE LCD - RB3205 34 PIN ILI 9341 8 BIT PARALLEL
 AMPLI - PAM8302A
@@ -14,3 +14,4 @@ Menu setting: joystic, audio, palette, user function button:
 Ability to delete files from the SD.
 
 ![IMG_4342](https://github.com/user-attachments/assets/048bebeb-d719-4f3f-8421-526b48eb2785)
+![IMG_4350](https://github.com/user-attachments/assets/4a342a9d-7391-4c0e-8d39-aad7f20643e1)
