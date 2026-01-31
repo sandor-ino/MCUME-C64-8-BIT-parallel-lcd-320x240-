@@ -1,0 +1,8 @@
+
+.program ili9486_parallel
+.side_set 1 opt
+
+loop:
+    out pins, 16 side 0 
+    nop          side 1
+jmp loop
