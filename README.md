@@ -19,13 +19,13 @@ user 1 - configurable button
 
 key/joy - joystick or virtual keyboard selection
 
-set - in emulation opens the setting menu (Joystic port, audio volume, color palette, user function button), in initial menu delete the files in SD, confirm with fire, cancel with set
+set - in emulation opens setting menu (Joystic port, audio volume, color palette, user function button), in initial menu delete the files in SD, confirm with fire, cancel with set
 
 plus/minus - volume control, used to control parameters in setting menu
 
 reset - resets the pico
 
-The SD reader integrated into the LCD display is used. Inside the SD, insert only .PRG files organized into multiple folders, maximum 64 folders and 64 files per folder. Initial menu displays the contents of the SD.
+SD reader integrated into the LCD display is used. Inside the SD, insert only .PRG files organized into multiple folders, maximum 64 folders and 64 files per folder. Initial menu displays SD contents.
 
 AUDIO FILTER:
 to improve the PWM audio output from the pico add PWM pin---R680---x---C10nf---gnd x---R680---o---C10nf---gnd o---PAM pin A+
